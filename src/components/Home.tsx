@@ -16,7 +16,6 @@ const Home = () => {
           });
         };
     
-        // Scroll to top on component mount
         scrollToTop();
       }, []);
 
