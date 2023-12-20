@@ -94,8 +94,7 @@ const Home = () => {
                         <source src={video}
                         type="video/mp4" />
                     </video>
-                    <h4>put Javkson's address here</h4>
-                    <h3> Frequently Asked Questions:</h3>
+                    <h4>Javkson's place</h4>
                     <h3>Lineup:</h3>
                     <div>
                     {food.map(([emoji, hueA, hueB]) => (

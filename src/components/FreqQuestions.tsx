@@ -21,12 +21,13 @@ const FreqQuestions = () => {
         {
             id: "3",
             question: "How long did this website take you to make",
-            answer: "1 hour"
+            answer: "1 hour."
         }
     ]
 
     return (
         <div style={{ marginTop: '8rem', display: 'flex', alignContent: 'center', flexDirection: 'column', alignItems: 'center', textAlign: 'center'}}>
+            <h3> Frequently Asked Questions:</h3>
             {questions.map((item) => (
                 <div id={item.id}>
                     <h3>
