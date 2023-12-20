@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/birthday21/static/css/main.dd4d2dd8.css",
+    "main.js": "/birthday21/static/js/main.126c9924.js",
+    "static/js/787.6b5f7962.chunk.js": "/birthday21/static/js/787.6b5f7962.chunk.js",
+    "static/media/masterpiece.mp4": "/birthday21/static/media/masterpiece.21114ffd440d7c9bc5c3.mp4",
+    "index.html": "/birthday21/index.html",
+    "main.dd4d2dd8.css.map": "/birthday21/static/css/main.dd4d2dd8.css.map",
+    "main.126c9924.js.map": "/birthday21/static/js/main.126c9924.js.map",
+    "787.6b5f7962.chunk.js.map": "/birthday21/static/js/787.6b5f7962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4d2dd8.css",
+    "static/js/main.126c9924.js"
+  ]
+}
